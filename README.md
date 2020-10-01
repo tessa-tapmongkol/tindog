@@ -1,2 +1,2 @@
-TinDog Website
-A website for teaser Tinder app
+# TinDog Homepage
+Implemented TinDog Homepage to practice CSS, HTML, and Bootstrap Library skills.
